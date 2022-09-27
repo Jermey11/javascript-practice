@@ -3,3 +3,4 @@
 in the house!!*/
 console.log("Jermey Hampton");
 console.log("My favorite food is Rice".);
+
